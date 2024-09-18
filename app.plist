@@ -4,90 +4,90 @@
 
 <plist version="1.0">
 
-<dict>
+    <dict>
 
-                <key>items</key>
+        <key>items</key>
 
-                <array>
+        <array>
 
-                                <dict>
+            <dict>
 
-                                                <key>assets</key>
+                <key>assets</key>
 
-                                                <array>
+                <array>
 
-                                                                <dict>
+                    <dict>
 
-                                                                                <key>kind</key>
+                        <key>kind</key>
 
-                                                                                <string>software-package</string>
+                        <string>software-package</string>
 
-                                                                                 <key>url</key>                                                                                                                           
+                        <key>url</key>
 
-                                                           <string>https://static.happydaojia.com/apk/24705265928.ipa</string>
+                        <string>https://static.happydaojia.com/apk/24705265928.ipa</string>
 
-                                                                </dict>
+                    </dict>
 
-                                                                <dict>
+                    <dict>
 
-                                                                                <key>kind</key>
+                        <key>kind</key>
 
-                                                                                <string>full-size-image</string>
+                        <string>full-size-image</string>
 
-                                                                                <key>needs-shine</key>
+                        <key>needs-shine</key>
 
-                                                                                <true/>
+                        <true/>
 
-                                                                                <key>url</key>                                                                                                                                    
+                        <key>url</key>
 
-                                                            <string>https://c-ssl.dtstatic.com/uploads/blog/202301/18/20230118090003_c778a.thumb.1000_0.png</string>
+                        <string>https://c-ssl.dtstatic.com/uploads/blog/202301/18/20230118090003_c778a.thumb.1000_0.png</string>
 
-                                                            </dict>
+                    </dict>
 
-                                                            <dict>
+                    <dict>
 
-                                                                            <key>kind</key>
+                        <key>kind</key>
 
-                                                                            <string>display-image</string>
+                        <string>display-image</string>
 
-                                                                            <key>needs-shine</key>
+                        <key>needs-shine</key>
 
-                                                                            <true/>
+                        <true/>
 
-                                                                            <key>url</key>                                                                           
+                        <key>url</key>
 
-                                                            <string>https://c-ssl.dtstatic.com/uploads/blog/202301/18/20230118090003_c778a.thumb.1000_0.png</string>
+                        <string>https://c-ssl.dtstatic.com/uploads/blog/202301/18/20230118090003_c778a.thumb.1000_0.png</string>
 
-                                                            </dict>
+                    </dict>
 
-                                        </array>
+                </array>
 
-                                        <key>metadata</key>
+                <key>metadata</key>
 
-                                        <dict>
+                <dict>
 
-                                                        <key>bundle-identifier</key>
+                    <key>bundle-identifier</key>
 
-                                                        <string>io.shzhs.wxmore</string>
+                    <string>io.shzhs.wxmore</string>
 
-                                                        <key>bundle-version</key>
+                    <key>bundle-version</key>
 
-                                                        <string>1.0.0</string>
+                    <string>1.0.0</string>
 
-                                                         <key>kind</key>
+                    <key>kind</key>
 
-                                                         <string>software</string>
+                    <string>software</string>
 
-                                                        <key>title</key>
+                    <key>title</key>
 
-                                                        <string>wxmore App download</string>
+                    <string>wxmore App download</string>
 
-                                        </dict>
+                </dict>
 
-                        </dict>
+            </dict>
 
-        </array>
+        </array>
 
-</dict>
+    </dict>
 
 </plist>
